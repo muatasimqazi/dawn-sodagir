@@ -1,6 +1,9 @@
 {
   "current": {
-    "logo_width": 90,
+    "logo": "shopify:\/\/shop_images\/sodagir-en-wide_528bd8f9-877c-4ee9-be4d-1f120d5907ff.png",
+    "logo_width": 250,
+    "logo_ur": "shopify:\/\/shop_images\/sodagir-logo-wide.png",
+    "logo_ur_width": 300,
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
     "type_body_font": "assistant_n4",
