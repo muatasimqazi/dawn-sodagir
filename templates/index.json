@@ -55,14 +55,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "About Sodagri",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Discover the convenience of online shopping with <strong>Sodagir<\/strong>, the first website in <strong>Panjgur<\/strong> for all your shopping needs.<\/p>"
           }
         }
       },
