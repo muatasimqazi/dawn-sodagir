@@ -1,0 +1,8 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+.header__menu-item,
+.list-menu__item {
+  text-decoration: none !important;
+}
