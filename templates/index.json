@@ -6,15 +6,15 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Coming soon",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "text": "Explore a new way to shop with our online store. Enjoy the convenience of browsing and purchasing products from the comfort of your home.",
+            "text_style": "subtitle"
           }
         },
         "button": {
