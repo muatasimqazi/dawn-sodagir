@@ -228,7 +228,7 @@
           "button": "#fe7f2d",
           "button_label": "#fff",
           "secondary_button_label": "#fcca46",
-          "shadow": "#fcca46"
+          "shadow": "#121212"
         }
       },
       "scheme-004bda10-125a-4948-87d1-ed770ce60236": {
@@ -246,7 +246,7 @@
         "settings": {
           "background": "#006837",
           "background_gradient": "",
-          "text": "#fff",
+          "text": "#121212",
           "button": "#006837",
           "button_label": "#ffffff",
           "secondary_button_label": "#78c679",
