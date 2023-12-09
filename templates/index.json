@@ -212,6 +212,95 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "451831dd-00f1-4642-9458-ee42373cd19a": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--17384061370532__451831dd-00f1-4642-9458-ee42373cd19a-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hands-hold-a-small-cosmetics-container.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Health & Beauty",
+            "link": "shopify:\/\/collections\/health-beauty"
+          }
+        },
+        "7506d046-5250-48e9-b944-95058034926a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/jewelry.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Jewelry",
+            "link": "shopify:\/\/collections\/health-beauty"
+          }
+        },
+        "1d3f2487-f11e-42ba-9eed-ea53a8a607d7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/baby-girl-feet.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Baby Clothing",
+            "link": "shopify:\/\/collections\/kids"
+          }
+        },
+        "3b7a07e5-b17c-46e7-aafd-c8dc2340c6f5": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vegetable-slicer-in-kitchen.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Kitchen",
+            "link": "shopify:\/\/collections\/health-beauty"
+          }
+        },
+        "0668eec4-18c7-4e78-9b2d-f03fdc3a76d1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hotel-toiletries.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Bath",
+            "link": "shopify:\/\/collections\/health-beauty"
+          }
+        },
+        "51ecc310-ff84-4dbe-9f02-e7945e07128e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gift-package-in-hand.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Gifts",
+            "link": "shopify:\/\/collections\/health-beauty"
+          }
+        }
+      },
+      "block_order": [
+        "template--17384061370532__451831dd-00f1-4642-9458-ee42373cd19a-column-1",
+        "7506d046-5250-48e9-b944-95058034926a",
+        "1d3f2487-f11e-42ba-9eed-ea53a8a607d7",
+        "3b7a07e5-b17c-46e7-aafd-c8dc2340c6f5",
+        "0668eec4-18c7-4e78-9b2d-f03fdc3a76d1",
+        "51ecc310-ff84-4dbe-9f02-e7945e07128e"
+      ],
+      "settings": {
+        "title": "Shop by categories",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -220,6 +309,7 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "451831dd-00f1-4642-9458-ee42373cd19a"
   ]
 }
